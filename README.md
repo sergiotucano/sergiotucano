@@ -14,4 +14,4 @@ Hi, I'm Sergio Clemente, I'm a Software Developer. 👋
 
 
 
-[![sergiotucano's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=sergiotucano&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/sergiotucano/github-readme-stats)
+[![sergiotucano's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=sergiotucano&show_icons=true)](https://github.com/sergiotucano/github-readme-stats)
