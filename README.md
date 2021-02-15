@@ -1,7 +1,7 @@
 Hi, I'm Sergio Clemente, I'm a Software Developer. 👋
 
 - 🔭 I’m currently working on MBD Informática projects [MBD](https://github.com/mbd-informatica)
-- 🌱 I’m currently learning Flutter and MVVM architecture
+- 🌱 I’m currently learning Flutter and Getx architecture
 - 💬 Ask me about anything [here](https://github.com/sergiotucano/sergiotucano/issues)
 
 **Languages and Tools:**  
@@ -14,4 +14,8 @@ Hi, I'm Sergio Clemente, I'm a Software Developer. 👋
 
 
 
-[![sergiotucano's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=sergiotucano&show_icons=true)](https://github.com/sergiotucano/github-readme-stats)
+[![sergiotucano's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=sergiotucano&show_icons=true&theme=highcontrast)](https://github.com/sergiotucano/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiotucano&layout=compact&theme=highcontrast&langs_count=10)](https://github.com/sergiotucano/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sergiotucano&theme=highcontrast)](https://github.com/sergiotucano/github-readme-stats)
