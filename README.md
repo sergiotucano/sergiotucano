@@ -1,7 +1,7 @@
 Hi, I'm Sergio Clemente, I'm a Software Developer. 👋
 
 - 🔭 I’m currently working on MBD Informática projects [MBD](https://github.com/mbd-informatica)
-- 🌱 I’m currently learning Flutter and Getx architecture
+
 - 💬 Ask me about anything [here](https://github.com/sergiotucano/sergiotucano/issues)
 
 **Languages and Tools:**  
@@ -12,7 +12,7 @@ Hi, I'm Sergio Clemente, I'm a Software Developer. 👋
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 
 [![sergiotucano's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=sergiotucano&show_icons=true&theme=highcontrast)](https://github.com/sergiotucano/github-readme-stats)
 
