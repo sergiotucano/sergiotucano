@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="MVFszdmzJQZUzA_guLbBtBYT_aIXi4gIew48EYyLXz4" />
+
 Hi, I'm Sergio Clemente, I'm a Software Developer. 👋
 
 - 🔭 I’m currently working on MBD Informática projects [MBD](https://github.com/mbd-informatica)
